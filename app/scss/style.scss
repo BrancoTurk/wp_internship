@@ -1,0 +1,11 @@
+$primary_color: #333;
+
+body{
+    color: #fff;
+    background-color: $primary_color;
+}
+
+.testing{
+    color: $primary_color;
+    width: percentage(1);
+}
